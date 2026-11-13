@@ -236,6 +236,10 @@ footer div {
     background: #ffffff;
 }
 
+.app-logo-transparent {
+    background: transparent;
+}
+
 .app-intro {
     color: var(--muted);
     max-width: 740px;
